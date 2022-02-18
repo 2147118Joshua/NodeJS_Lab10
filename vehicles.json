@@ -1,0 +1,34 @@
+{
+    "Vehicles": [
+        {
+            "id": 1,
+            "username": "rakesh",
+            "email": "123",
+            "password": "as"
+        },
+        {
+            "id": 2,
+            "username": "raakesh",
+            "email": "123",
+            "password": "as"
+        },
+        {
+            "id": 1645029002266,
+            "username": "nikil",
+            "email": "1@gmail.com",
+            "password": "$2b$10$rHjw.xsNPJAGwm3IKIYKUOL8GUmMaoC/rDf2z0FFHdxSrEEoUU7Yq"
+        },
+        {
+            "id": 1645029103756,
+            "username": "smith",
+            "email": "smithcd1@gmail.com",
+            "password": "$2b$10$eOmy1LWW5jBgDf.2IEosUOUfxgO8Mvxk9A49IOHYEe1AlaNAke1L2"
+        },
+        {
+            "id": 1645030081824,
+            "username": "bca33",
+            "email": "preethisumathi2003@gmail.com",
+            "password": "$2b$10$FTIjzQIds87zImwQUT/Cr.I.kTfpBa7gd9udYo6sg3xIYwdp4esTS"
+        }
+    ]
+}
